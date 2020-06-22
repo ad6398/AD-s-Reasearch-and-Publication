@@ -1,1 +1,1 @@
-# AD-s-Reasearch-and-Publication
+# Repo for Mine Research and Publication
