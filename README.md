@@ -1,1 +1,1 @@
-# Repo for Mine Research and Publication
+# Repo for My Research and Publication
